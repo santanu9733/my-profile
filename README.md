@@ -7,7 +7,7 @@
 ---
 
 ## 🧠 About Me
-- 🎓 First-year Computer Science student  
+- 🎓 2-year Computer Science student  
 - 🌱 Currently learning HTML, CSS, JavaScript  
 - 💡 Interested in Web Development & UI/UX Design  
 - ⚡ Love to create modern and creative web projects  
